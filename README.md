@@ -45,24 +45,24 @@ WhisperBook is more than just a writing platform. It’s a warm corner of the in
 
 ## 📂 Project Structure
 
-WhisperBook/
-├── public/
-│ ├── favicon.ico
-│ ├── og-image.jpg
-│ ├── manifest.json
-│ ├── robots.txt
-│ └── sitemap.xml
-├── src/
-│ ├── index.html
-│ ├── styles/
-│ │ └── main.css
-│ └── scripts/
-│ └── main.js
-├── blog/
-│ └── index.html
-├── assets/
-│ └── images/
-├── README.md
+WhisperBook/<br>
+├── public/<br>
+│ ├── favicon.ico<br>
+│ ├── og-image.jpg<br>
+│ ├── manifest.json<br>
+│ ├── robots.txt<br>
+│ └── sitemap.xml<br>
+├── src/<br>
+│ ├── index.html<br>
+│ ├── styles/<br>
+│ │ └── main.css<br>
+│ └── scripts/<br>
+│ └── main.js<br>
+├── blog/<br>
+│ └── index.html<br>
+├── assets/<br>
+│ └── images/<br>
+├── README.md<br>
 
 
 ---
